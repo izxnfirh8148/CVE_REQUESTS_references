@@ -4,7 +4,7 @@
 
 **Vendor's website:** https://www.mercurycom.com.cn/
 
-**Reported by:** YanKang
+**Reported by:** YanKang; ZhangChangqing
 
 **Affected products:** MIPC252W
 
