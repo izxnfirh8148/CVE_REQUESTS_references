@@ -4,7 +4,7 @@
 
 **Vendor's website:**  [https://www.tenda.com.cn](https://www.tenda.com.cn/)
 
-**Reported by:**  YanKang、ChenZhijin、WeiKanghong
+**Reported by:**  YanKang、ZhangChangqing、WeiKanghong
 
 **Affected products:** Tenda AC18 router
 
